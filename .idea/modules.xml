@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../****课件资料/代码/Scrapy新浪微博/Weibo-master/.idea/Weibo-master.iml" filepath="$PROJECT_DIR$/../../****课件资料/代码/Scrapy新浪微博/Weibo-master/.idea/Weibo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../****课件资料/代码/Scrapy爬取知乎/Zhihu-master/.idea/Zhihu-master.iml" filepath="$PROJECT_DIR$/../../****课件资料/代码/Scrapy爬取知乎/Zhihu-master/.idea/Zhihu-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiecheng2.iml" filepath="$PROJECT_DIR$/.idea/xiecheng2.iml" />
+    </modules>
+  </component>
+</project>
